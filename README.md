@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">A passionate developer, mostly using JS.</h3>
 
-__ 
 - 🔭 I’m currently working on personal projects.
 
 <h3 align="left">Languages and Tools:</h3>
