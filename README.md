@@ -5,11 +5,11 @@
 
 <div align="center">
   <h3>Connect with me:</h3>
-  <p>
+  <p style="display: inline-flex; align-items: center;">
     <a href="https://discord.com/users/thereal_elias" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KEQw6kr" height="30" width="40" />
     </a>
-    <span> Send a friend request to thereal_elias</span>
+    <span style="margin-left: 10px; line-height: 30px;">Send a friend request to thereal_elias</span>
   </p>
 </div>
 
