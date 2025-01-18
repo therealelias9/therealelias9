@@ -8,7 +8,7 @@
   <a href="https://discord.gg/KEQw6kr" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KEQw6kr" height="30" width="40" />
   </a>
-  <a href="https://discordapp.com/users/thereal_elias" target="blank">Send a friend request to thereal_elias</a>
+  <span> Send a friend request to thereal_elias</span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
