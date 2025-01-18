@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">A passionate developer, mostly using JS.</h3>
+<h1 align="center">Hey 👋, I'm Elias</h1>
+<h3 align="center">A passionate developer, primarily working with JavaScript.</h3>
 
-<p align="center">🔭 I’m currently working on personal projects.</p>
+<p align="center">🔭 Currently focused on building personal projects and learning new skills.</p>
 
 <div align="center">
-  <h3>Connect with me:</h3>
+  <h3>Let's connect:</h3>
   <a href="https://discord.com/users/thereal_elias" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Logo" height="30" width="40" />
   </a>
 </div>
 
 <div align="center">
-  <h3>Languages and Tools:</h3>
+  <h3>Technologies I work with:</h3>
   <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
